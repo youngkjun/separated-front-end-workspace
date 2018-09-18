@@ -1,3 +1,8 @@
 target/
 target/*
 target/**/*
+/.apt_generated/
+.mvn/
+.settings/
+.classpath
+.project
