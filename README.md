@@ -1,8 +1,6 @@
 # John 1:12
 Yet to all who did receive him, to those whoe believed in his name, he gave the right to become children of God
 
-# 요한복음 1:12
-영접하는 자 곧 그 이름을 믿는 자들에게는 하나님의 자녀가 되는 권세를 주셨으니.
 
 # separated-front-end-workspace
 
