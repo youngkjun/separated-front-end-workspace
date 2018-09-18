@@ -2,7 +2,7 @@
 Yet to all who did receive him, to those whoe believed in his name, he gave the right to become children of God
 
 
-# separated-front-end-workspace
+# Separated front-end workspace on Spring Boot (v 1.5.x)
 
 This is a sample Spring Boot project to separate front-end and back-end work directories.
 
